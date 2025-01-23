@@ -39,7 +39,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body
-        className={`${geistSans.variable} ${ibmPlexSerif.variable} antialiased`}
+        className={`${inter.variable} ${ibmPlexSerif.variable} antialiased`}
       >
         {children}
       </body>
