@@ -131,12 +131,20 @@ npm run dev
 - [ ] Advanced investment tracking modules
 - [ ] Enhanced international transaction support
 
-## Contribution Guidelines
 
-1. Fork the primary repository
-2. Create feature-specific branch
-3. Implement and validate changes
-4. Submit comprehensive pull request
+## Acknowledgments
+
+**Original Tutorial**: Created following the comprehensive course by [JavaScriptMastery](https://www.jsmastery.pro/)
+
+**Course Instructor**: Adrian Hajdin
+
+**Learning Resource**: Build and Deploy a Banking App with Finance Management Dashboard Using Next.js 14
+
+This project is a result of an in-depth tutorial that provides a practical, hands-on approach to building a modern financial SaaS platform using cutting-edge web technologies.
+
+Special thanks to JavaScriptMastery for providing an exceptional learning resource that guided the development of this project. The tutorial offered invaluable insights into full-stack development, API integration, and modern web application architecture.
+
+**Disclaimer**: While based on a tutorial, this implementation represents a personal learning journey and may include custom modifications and improvements beyond the original course content.
 
 ## Licensing
 
@@ -144,7 +152,8 @@ Distributed under the MIT License. Refer to `LICENSE` file for complete details.
 
 ## Contact and Collaboration
 
-Project Maintainer: [Your Name]
-Repository: https://github.com/[username]/financial-saas-platform
+Project Maintainer: Manazir Ali
+
+Repository: https://github.com/mnzralee/financial-saas-platform
 
 **Disclaimer**: This project serves as a technological demonstration of financial technology implementation and should not be considered a production-ready banking solution.
