@@ -150,10 +150,4 @@ Special thanks to JavaScriptMastery for providing an exceptional learning resour
 
 Distributed under the MIT License. Refer to `LICENSE` file for complete details.
 
-## Contact and Collaboration
-
-Project Maintainer: Manazir Ali
-
-Repository: https://github.com/mnzralee/financial-saas-platform
-
 **Disclaimer**: This project serves as a technological demonstration of financial technology implementation and should not be considered a production-ready banking solution.
