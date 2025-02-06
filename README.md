@@ -146,8 +146,4 @@ Special thanks to JavaScriptMastery for providing an exceptional learning resour
 
 **Disclaimer**: While based on a tutorial, this implementation represents a personal learning journey and may include custom modifications and improvements beyond the original course content.
 
-## Licensing
-
-Distributed under the MIT License. Refer to `LICENSE` file for complete details.
-
 **Disclaimer**: This project serves as a technological demonstration of financial technology implementation and should not be considered a production-ready banking solution.
